@@ -10,6 +10,6 @@ public class Controller {
 	
 	@GetMapping
 	public String hello() {
-		return "hi this new changes has done now ------";
+		return "hello vxml";
 	}
 }
